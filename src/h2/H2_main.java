@@ -3,8 +3,8 @@ package h2;
 public class H2_main {
 
 	public static void main(String[] args) {
-		boolean x,y = false;
-		boolean a,b,c = false;
+		boolean x = false,y = false;
+		boolean a = false,b = false,c = false;
 		int input =  0;
 		
 		switch (input) {
