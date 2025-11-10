@@ -8,9 +8,9 @@ public class H3_main {
 		double celsiusDouble = 1,fahrenheitDouble = 1;
 		
 		//flaot
-		fahrenheitFloat = celsiusFlaot * (9/5) + 32;
+		fahrenheitFloat = celsiusFlaot * (9.0f/5f) + 32;
 		//double
-		fahrenheitDouble = celsiusDouble * (9/5) + 32;
+		fahrenheitDouble = celsiusDouble * (9.0/5) + 32;
 		
 		
 	}

@@ -22,7 +22,7 @@ public class H2_main {
 			break;
 		case 11:
 			x = true;
-			y = false;
+			y = true;
 			break;
 		default:
 			x = false;
